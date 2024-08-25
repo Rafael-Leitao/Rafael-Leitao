@@ -16,7 +16,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
+      - uses: Rafael-Leitao/github-readme-youtube-cards@main
         with:
           channel_id: UCdheoyq7atYnel-1EyacKJg
           comment_tag_name: YOUTUBE-CARDS
