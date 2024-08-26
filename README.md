@@ -2,8 +2,6 @@
 
 🔭 I’m currently working on ...
 
----
-
 ### 🧰 Languages and Tools
 
 
@@ -31,9 +29,9 @@
 
 ### 📺 Latest YouTube Videos
 
-<!-- BEGIN YOUTUBE-CARDS -->
 
-<!-- END YOUTUBE-CARDS -->
+['Yourtube Video Website: csc317Project'](https://www.youtube.com/watch?v=k_1LcAwIf44)
+
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
@@ -41,10 +39,27 @@
 
 ### 📊 Stats
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Leitao&show_icons=true&theme=dark)
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafael-Leitao&show_icons=true&locale=en&layout=compact&theme=dark" alt="rafael" style="width: 37%; height: 200px;" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafael-Leitao&show_icons=true&theme=dark" alt="Rafael's GitHub stats" style="width: 49%; height: 200px;" />
+</p>
+
+
+
 
 
 #
 
-[website]: https://rafaelsleitao@gmail.com
-[youtube]: https://www.youtube.com/@rafaelsantana9946
+👨‍💻 All of my projects are available at [Rafael Leitao](rafaelsleitao.com)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/devRafaelLeitao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafael" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rafaeleitao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@rafaelsantana9946" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rafael" height="30" width="40" /></a>
+</p>
+
