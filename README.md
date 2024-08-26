@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Rafael Leitao
 
-🔭 I’m currently working on ...
+🔭 I’m currently working as a Software Engineer Intern at NeuroLeap, where I develop and optimize APIs, enhance cross-platform systems, and contribute to high-performance database solutions. With a degree in Computer Science from San Francisco State University, I have a solid foundation in programming languages like Python, C++, and Golang, as well as experience in software development, data analysis, and quality assurance. My passion lies in solving complex technical challenges, whether it's building scalable applications, working with distributed systems, or diving into AI and machine learning. I'm always eager to learn, grow, and collaborate with others to drive innovation and create impactful digital experiences.
 
 ### 🧰 Languages and Tools
 
@@ -61,5 +61,7 @@
 <a href="https://twitter.com/devRafaelLeitao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafael" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rafaeleitao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@rafaelsantana9946" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rafael" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/kafa01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rafael" height="30" width="40" /></a>
+</p>
 </p>
 
