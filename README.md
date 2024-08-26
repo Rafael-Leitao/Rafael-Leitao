@@ -53,7 +53,7 @@
 
 #
 
-👨‍💻 All of my projects are available at [Rafael Leitao](rafaelsleitao.com)
+👨‍💻 All of my projects are available on my [website](rafaelsleitao.com)
 
 
 <h3 align="left">Connect with me:</h3>
